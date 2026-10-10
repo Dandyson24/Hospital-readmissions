@@ -3,8 +3,6 @@
   Turning Hospital Encounter Data into Actionable Insights
 </p>
 
-# Hospital Readmission Risk Analysis
-
 ## Project Overview
 
 Hospital readmissions can place additional pressure on clinical teams, consume limited bed capacity, increase care costs, and expose hospitals to financial penalties under applicable reimbursement programmes. Understanding which patient groups and care patterns are associated with readmission can help hospitals make better decisions about discharge planning and post-discharge support.
@@ -167,10 +165,13 @@ hospital-readmission-risk-analysis/
     └── charts-and-summary.md
 ```
 
-*Adjust the file names and folder structure above to match the files actually included in this repository.*
+# 👤 Author
 
-## Author
+Andrew Nwachimere-eze Okebugwu, PhD Public Health Physician | Healthcare Data Analyst
 
-**Healthcare Data Analytics Portfolio Project**
+LinkedIn: [https://www.linkedin.com/in/andrew-nwachimereze-okebugwu-mbbs-mph-phd-6b429617]
 
+Email: [dr.andrewokebugwu@gmail.com]
+
+Skills: SQL | PostgreSQL | Power BI | Python | Healthcare Analytics | Public Health Data
 This project combines healthcare domain knowledge with SQL-based analysis to demonstrate how data can support operational insight, quality improvement, and evidence-informed decision-making.
